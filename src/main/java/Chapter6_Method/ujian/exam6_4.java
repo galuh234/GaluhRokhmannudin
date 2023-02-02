@@ -16,9 +16,9 @@ public class exam6_4 {
         String status = input.nextLine();
         System.out.print("Jumlah anak      : ");
         double anak = input.nextDouble();
-        System.out.print("Jarak Rmh-Kanor  : ");
+        System.out.print("Jarak Rumah-Kanor  : ");
         int jarak = input.nextInt();
-        System.out.print("Jumlah Msk kerja : ");
+        System.out.print("Jumlah Masuk kerja : ");
         int masuk = input.nextInt();
         System.out.print("Tahun Masuk      : ");
         int tahun = input.nextInt();
