@@ -29,7 +29,7 @@ public class exercise7_16 {
         return 1 + (int) (Math.random() * 100000);
     }
 
-    public static int linearSearch(int[] array, int key)m {
+    public static int linearSearch(int[] array, int key) {
         for (int i = 0; i < array.length; i++) {
             if (key == array[i])
                 return  i;
