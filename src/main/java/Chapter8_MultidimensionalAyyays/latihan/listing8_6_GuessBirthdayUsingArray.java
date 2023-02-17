@@ -48,3 +48,4 @@ public class listing8_6_GuessBirthdayUsingArray {
         System.out.println("Your birthday is " + day);
     }
 }
+
