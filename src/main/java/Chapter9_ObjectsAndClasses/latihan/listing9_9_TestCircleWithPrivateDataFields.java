@@ -11,3 +11,4 @@ public class listing9_9_TestCircleWithPrivateDataFields {
         System.out.println("The number of objects created is " + Circle.getNumberOfObjects());
     }
 }
+
